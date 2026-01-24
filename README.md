@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Iti Patidar</h1>
-<h3 align="center">Computer Application Student</h3>
+<h3 align="center">Computer Application Student|Full stack developer</h3>
+
+- 🔭 I’m currently working on **Chitchat**
+
+- 🌱 I’m currently learning **python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/iti-patidar-72838437a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iti-patidar-72838437a/" height="30" width="40" /></a>
+<a href="https://medium.com/patidariti02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="patidariti02" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/itiiixxx02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itiiixxx02" height="30" width="40" /></a>
 </p>
 
