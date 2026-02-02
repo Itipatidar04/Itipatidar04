@@ -17,5 +17,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itipatidar04&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="itipatidar04" /></p>
 
-//![Snake animation](https://raw.githubusercontent.com/Itipatidar04/Itipatidar04/output/github-contribution-grid-snake.svg)
+
 ![Snake animation](https://raw.githubusercontent.com/Itipatidar04/Itipatidar04/output/github-contribution-grid-snake-dark.svg)
